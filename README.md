@@ -189,6 +189,3 @@ The main lesson has been to test each layer instead of guessing. A service that 
 - Add more centralized logging and security monitoring
 - Continue improving architecture and recovery documentation
 
----
-
-This repository is a sanitized overview. Passwords, API keys, internal addresses, backup secrets, complete configurations, and other sensitive details are intentionally excluded.
