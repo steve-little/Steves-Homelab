@@ -1,4 +1,4 @@
-# Steven's Homelab
+# Steve's Homelab
 
 > A self-hosted, multi-server Linux environment built for private cloud services, media, networking, identity management, monitoring, and disaster recovery.
 
