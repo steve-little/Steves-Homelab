@@ -33,8 +33,8 @@ Selected applications are published through Nginx Proxy Manager using HTTPS. Mos
 | **Caroline** | Lenovo M73 Tiny, Intel Core i5, 12 GB RAM, 250 GB SSD | Applications, databases, storage, and backups |
 | **GLaDOS** | Lenovo M72 Tiny, Intel Core i3, 8 GB RAM | DNS, VPN, reverse proxy, and monitoring |
 | **Storage** | TerraMaster multi-bay DAS | Houses both Linux RAID arrays |
-| **Primary array** | 2 Ã— 6 TB WD Red Pro drives in RAID 1 | Main data, photos, and media |
-| **Secondary array** | 2 Ã— 2 TB drives in RAID 1 | Application data and local backups |
+| **Primary array** | 6 TB WD Red Pro drives in RAID 1 | Main data, photos, and media |
+| **Secondary array** | 2 TB drives in RAID 1 | Application data and local backups |
 | **Recovery storage** | Separate 2 TB drive | Full-system recovery images |
 | **Network** | ASUS RT-AX58U running Asuswrt-Merlin | Routing, firewall, DHCP, DNS enforcement, and port forwarding |
 | **Power protection** | APC Back-UPS with USB monitoring | Power-loss protection and UPS status |
