@@ -1,4 +1,4 @@
-# Steve's-Homelab
+# Steve's Homelab
 # My Homelab
 
 ## Overview
